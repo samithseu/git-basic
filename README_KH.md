@@ -1,11 +1,11 @@
-# Command មូលដ្ឋានសម្រាប់ Git
+# Commands មូលដ្ឋានសម្រាប់ Git
 
 <p align="left">
   <a href="README.md">English</a> &nbsp; | &nbsp;
   <a href="README_KH.md">ភាសាខ្មែរ</a>
 </p>
 
-## ចម្លង ឬទាញយក Repo ពី Internet មកប្រើក្នុង Computer
+## ចម្លង ឬទាញយក Repo ពី Internet (Remote) មកប្រើក្នុង Computer (Local)
 
 ### ពី GitHub
 
@@ -31,7 +31,7 @@ git clone [URL របស់ Repo]
 git init
 ```
 
-### ឆែកមើល Files ដែលបានប្រែប្រួល (បង្កើត,កែ,លុប)
+### ឆែកមើល Files ដែលបានប្រែប្រួលដូចជា៖ (បង្កើត,កែ,លុប)
 
 ```bash
 git status
@@ -42,10 +42,10 @@ git status
 ```bash
 git add [ឈ្មោះ file (អាចលើសពី1)]
 # ឧទាហរណ៍: git add index.html style.css
-# ឧទាហរណ៍: git add . (for adding all new changed files)
+# ឧទាហរណ៍: git add . (សម្រាប់បន្ថែមរាល់ files ថ្មីៗដែលបានប្រែប្រួល)
 ```
 
-### រក្សាស្ថានភាព Files ដែលបានជ្រើសរើសជា Commit នៅលើ Computer (Local)
+### រក្សាមាតិការបស់ Files ដែលបានជ្រើសរើស ឱ្យទៅជា Commit នៅលើ Computer (Local)
 
 ```bash
 git commit -m [សារដែលយើងចង់សរសេរ]
