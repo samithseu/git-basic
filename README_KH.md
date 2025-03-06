@@ -1,5 +1,10 @@
 # Command មូលដ្ឋានសម្រាប់ Git
 
+<p align="left">
+  <a href="README.md">English</a> &nbsp; | &nbsp;
+  <a href="README_KH.md">ភាសាខ្មែរ</a>
+</p>
+
 ## ចម្លង ឬទាញយក Repo ពី Internet មកប្រើក្នុង Computer
 
 ### ពី GitHub

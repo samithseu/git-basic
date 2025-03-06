@@ -1,5 +1,10 @@
 # Git Basic Commands
 
+<p align="left">
+  <a href="README.md">English</a> &nbsp; | &nbsp;
+  <a href="README_KH.md">ភាសាខ្មែរ</a>
+</p>
+
 ## Clone A Remote Repository
 
 ### From GitHub
