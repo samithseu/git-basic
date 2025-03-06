@@ -56,7 +56,7 @@ git commit -m [សារដែលយើងចង់សរសេរ]
 
 ```bash
 git branch -M [ឈ្មោះ Branch]
-# Example: git branch -M main
+# ឧទាហរណ៍: git branch -M main
 ```
 
 ### បន្ថែម Remote Repo ដើម្បីភ្ជាប់ជាមួយនឹង Local Repo ក្នុង Computer
