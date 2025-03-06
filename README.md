@@ -57,7 +57,7 @@ git branch -M [branch_name]
 ### Add remote repo to a local repo
 
 ```bash
-git remote add [remote_name] https://github.com/samithseu/[repo_name]
+git remote add [remote_name] [repo_url]
 # Example: git remote add origin https://github.com/samithseu/git-basic
 ```
 
