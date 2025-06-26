@@ -1,21 +1,21 @@
 # Git Basic Commands 🤏
 
 <p align="left">
-  <span>Language 🔤 </span>
+  <span><img height=14 src="https://github.com/user-attachments/assets/3cd10117-9624-48fa-b8aa-429382734ede" alt="choosing language" /> </span>
   <a>English</a> &nbsp; | &nbsp;
   <a href="README_KH.md">ភាសាខ្មែរ</a>
 </p>
 
-## 1️⃣ Clone A Remote Repository
+## 1. Clone A Remote Repository
 
-### From GitHub
+### 1.1. From GitHub
 
 ```bash
 git clone [repo_url]
 # Example: git clone https://github.com/samithseu/git-basic.git
 ```
 
-### From GitLab
+### 1.2. From GitLab
 
 ```bash
 git clone [repo_url]
@@ -24,21 +24,21 @@ git clone [repo_url]
 
 ---
 
-## 2️⃣ Push From Local To Remote Repository
+## 2. Push From Local To Remote Repository
 
-### Initialize a local git repo
+### 2.1 Initialize a local git repo
 
 ```bash
 git init
 ```
 
-### Check Status
+### 2.2. Check status
 
 ```bash
 git status
 ```
 
-### Track files
+### 2.3 Track files
 
 ```bash
 git add [file_name(s)]
@@ -46,28 +46,28 @@ git add [file_name(s)]
 # Example2: git add . (for adding all new changed files)
 ```
 
-### Commit files with messages
+### 2.4. Commit files with messages
 
 ```bash
 git commit -m [messages]
 # Example: git commit -m "initial commit"
 ```
 
-### Create and change branch
+### 2.5. Create and change branch
 
 ```bash
 git branch -M [branch_name]
 # Example: git branch -M main
 ```
 
-### Add remote repo to a local repo
+### 2.6. Add remote repo to a local repo
 
 ```bash
 git remote add [remote_name] [repo_url]
 # Example: git remote add origin https://github.com/samithseu/git-basic
 ```
 
-### Push to remote repo
+### 2.7. Push to remote repo
 
 ```bash
 git push [remote_name] [branch_name]
