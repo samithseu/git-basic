@@ -1,11 +1,12 @@
-# Git Basic Commands
+# Git Basic Commands 🤏
 
 <p align="left">
-  <a href="README.md">English</a> &nbsp; | &nbsp;
+  <span>Language 🔤 </span>
+  <a>English</a> &nbsp; | &nbsp;
   <a href="README_KH.md">ភាសាខ្មែរ</a>
 </p>
 
-## Clone A Remote Repository
+## 1️⃣ Clone A Remote Repository
 
 ### From GitHub
 
@@ -23,7 +24,7 @@ git clone [repo_url]
 
 ---
 
-## Push From Local To Remote Repository
+## 2️⃣ Push From Local To Remote Repository
 
 ### Initialize a local git repo
 
